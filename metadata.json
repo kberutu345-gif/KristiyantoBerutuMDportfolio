@@ -1,0 +1,8 @@
+{
+  "name": "Kristiyanto Berutu, MD, MM — Clinical Governance Monograph",
+  "description": "Executive clinical governance portfolio and health systems monograph for Kristiyanto Berutu, MD, MM — featuring Newborn Screening Follow-Up Case Engine (v6.4b), QIT KIA intrapartum safety framework, and frontline primary care leadership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
